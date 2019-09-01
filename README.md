@@ -7,3 +7,9 @@ Following subtopics are covered:
   2. Strings
   3. Lists 
   4. First steps towards programming
+Task 2: Introduction to Python - 2
+Following subtopics were covered:
+  1. More on Control Flow
+  2. Functions
+  3. Lambda functions
+  4. Documentation Strings and Coding style
